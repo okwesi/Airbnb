@@ -1,4 +1,4 @@
-# AiR bnb
+# Airbnb
 
 Well, Overall row was 48,895 in excel sheet, it was fun and you must heard about Airbnb, what about searching for an ideal price? learning part was cleaning data and converting into two sets, high and low. high data set for above $1000 per night and low data set file was below $1000 per nigh. Few lines of punching codes, can save huge amount of time.
 
